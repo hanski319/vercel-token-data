@@ -71,8 +71,11 @@ function parseNewSchema(html, source) {
 }
 
 // ---- schema B: pre-May-2026 page, "dataTop10Only":[{"date":epochMs,"Model A":pct,"Model B":pct,...},...]
-// This chart only ever published a request-share breakdown (no tokens/cost split existed
-// yet) -- see PLAN.md "Known soft spots".
+// The old page published a single unlabeled series ("The most popular models by % of AI
+// Gateway traffic"), with no tokens/requests/cost split in the UI at all. It is TOKEN share:
+// the two schemas overlap on 2026-03-17..2026-04-09, and across those 24 days this series
+// matches the new schema's `tokens` to a mean of 0.014pp, vs 7.6pp for `requests` and 9.5pp
+// for `cost`. See PLAN.md "Identifying the old series".
 const OLD_SCHEMA_RE = /\\?"dataTop10Only\\?":\[(.*?)\]/s;
 
 function parseOldSchema(html, source) {
@@ -93,7 +96,7 @@ function parseOldSchema(html, source) {
     if (pairs.length === 0) continue;
     out.push({
       date: new Date(epochMs).toISOString().slice(0, 10),
-      metric: "requests",
+      metric: "tokens",
       pairs,
       source,
     });

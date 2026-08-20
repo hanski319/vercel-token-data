@@ -33,26 +33,42 @@ The original brief pointed at `GET /api/ai/v5/gateway-model-leaderboard?view=cre
    starting **2025-07-01** — so July 2025 is the effective start of recoverable history, not November.
 
 5. **The page's data schema changed some time between 2026-04-09 and 2026-05-16.** Before that window,
-   the leaderboard chart only ever published a single, unlabeled `dataTop10Only` series — and every
-   Wayback capture from 2025-07-01 through 2026-04-09 has only that series, never `chef_values` with
-   `tokens`/`cost` metrics. Cross-checked against how [OpenRouter's leaderboard evolved](https://github.com/hanski319/token-usage-open-router)
-   (tokens didn't exist in *that* page's payload before Feb 2025 either) — it's a common pattern for
-   these dashboards to launch with just a request-count view and add token/cost breakdowns later.
-   Treating `dataTop10Only` as `requests` share is an inference, not something the page states outright.
+   the leaderboard published a single, unlabeled `dataTop10Only` series with no metric split in the
+   UI at all — its meta description reads only "The most popular models by % of AI Gateway traffic."
+   Every Wayback capture from 2025-07-01 through 2026-04-09 has just that series; `chef_values` with
+   named `tokens`/`requests`/`cost` metrics appears only from the 2026-05-16 capture onward.
+
+### Identifying the old series
+
+"% of traffic" is ambiguous, and getting it wrong silently mislabels ~10 months of data. It was
+initially assumed to be *request* share — **that assumption was wrong**, and it is resolvable
+empirically rather than by inference:
+
+The two schemas overlap. The 2026-04-09 capture's `dataTop10Only` runs 2026-02-08 → 2026-04-09,
+while the 2026-05-16 capture's `chef_values` runs 2026-03-17 → 2026-05-16 — 24 shared days. Comparing
+the old series against each named metric on those days, per-model:
+
+| Compared against | Mean abs. difference | Max |
+| --- | --- | --- |
+| **`tokens`** | **0.014 pp** | 0.33 pp |
+| `requests` | 7.56 pp | 9.23 pp |
+| `cost` | 9.53 pp | 10.89 pp |
+
+The old series *is* token share (the residual 0.014pp is snapshot-timing jitter — Vercel revises
+recent days slightly). So `parseOldSchema` labels it `tokens`.
 
 ### Net effect on coverage
 
 | Metric | Earliest usable data | Source |
 | --- | --- | --- |
-| **Requests** | 2025-07-01 | Wayback `dataTop10Only` series (2025-07 → 2026-04) + live `chef_values` (2026-03 → now) |
-| **Tokens** | 2026-03-17 | Live page + Wayback `chef_values` captures (schema didn't exist before ~Apr/May 2026) |
-| **Spend (cost)** | 2026-03-17 | Same as Tokens |
+| **Tokens** | 2025-07-01 | Wayback `dataTop10Only` (2025-07 → 2026-04, identified as tokens above) + live `chef_values` (2026-03 → now) |
+| **Requests** | 2026-03-17 | Live page + Wayback `chef_values` captures only — no earlier source exists |
+| **Spend (cost)** | 2026-03-17 | Same as Requests |
 
-So: **Tokens and Spend do not go back to Jan 2025 — or even to 2025 at all.** That data doesn't exist
-anywhere it could be scraped from; the leaderboard didn't track it yet. Requests share goes back to
-July 2025, which is the actual start of any AI Gateway leaderboard history that Wayback preserved.
-This mirrors the OpenRouter project's "known soft spots" section — flagging it here rather than
-padding the dataset with invented numbers.
+So: **nothing goes back to Jan 2025.** Tokens reach July 2025 — the start of any AI Gateway
+leaderboard history Wayback preserved. Requests and Spend reach only March 2026, because the
+leaderboard did not break traffic out by those metrics before then; that data doesn't exist anywhere
+it could be scraped from. Flagged here rather than padded with invented numbers.
 
 ## Data pipeline
 

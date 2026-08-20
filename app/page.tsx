@@ -26,16 +26,7 @@ export default function Home() {
             >
               Vercel AI Gateway
             </a>{" "}
-            traffic, one snapshot per month. Coverage varies by metric — see{" "}
-            <a
-              href="https://github.com/hanski319/vercel-token-data/blob/master/PLAN.md"
-              target="_blank"
-              rel="noreferrer"
-              className="underline hover:text-foreground"
-            >
-              PLAN.md
-            </a>{" "}
-            for sourcing and known gaps
+            traffic, one snapshot per month.
           </p>
         </div>
       </header>

@@ -1,7 +1,7 @@
 [
   {
     "date": "2025-07-31",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "monthly",
     "models": [
       {
@@ -23,7 +23,7 @@
   },
   {
     "date": "2025-08-31",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "monthly",
     "models": [
       {
@@ -60,7 +60,7 @@
   },
   {
     "date": "2025-09-30",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "monthly",
     "models": [
       {
@@ -107,7 +107,7 @@
   },
   {
     "date": "2025-10-31",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "monthly",
     "models": [
       {
@@ -159,7 +159,7 @@
   },
   {
     "date": "2025-11-30",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "monthly",
     "models": [
       {
@@ -216,7 +216,7 @@
   },
   {
     "date": "2025-12-31",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "monthly",
     "models": [
       {
@@ -273,7 +273,7 @@
   },
   {
     "date": "2026-01-31",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "monthly",
     "models": [
       {
@@ -310,7 +310,7 @@
   },
   {
     "date": "2026-02-28",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "monthly",
     "models": [
       {
@@ -1128,52 +1128,52 @@
       {
         "rank": 1,
         "name": "Claude Opus 5",
-        "pct": 20.34
+        "pct": 20.39
       },
       {
         "rank": 2,
         "name": "Claude Opus 4.8",
-        "pct": 16.54
+        "pct": 16.52
       },
       {
         "rank": 3,
         "name": "GLM 5.2",
-        "pct": 7.56
+        "pct": 7.55
       },
       {
         "rank": 4,
         "name": "GPT 5.6 Sol",
-        "pct": 6.82
+        "pct": 6.86
       },
       {
         "rank": 5,
         "name": "Claude Sonnet 5",
-        "pct": 5.92
+        "pct": 5.95
       },
       {
         "rank": 6,
         "name": "Claude Opus 4.6",
-        "pct": 5.41
+        "pct": 5.46
       },
       {
         "rank": 7,
         "name": "Claude Sonnet 4.6",
-        "pct": 4.3
+        "pct": 4.29
       },
       {
         "rank": 8,
         "name": "Claude Fable 5",
-        "pct": 4.24
+        "pct": 4.25
       },
       {
         "rank": 9,
         "name": "Kimi K3",
-        "pct": 2.14
+        "pct": 2.11
       },
       {
         "rank": 10,
         "name": "Claude Haiku 4.5",
-        "pct": 2.05
+        "pct": 2.04
       }
     ]
   },
@@ -1185,12 +1185,12 @@
       {
         "rank": 1,
         "name": "GPT-5 nano",
-        "pct": 11.74
+        "pct": 11.64
       },
       {
         "rank": 2,
         "name": "DeepSeek V4 Flash",
-        "pct": 6.57
+        "pct": 6.56
       },
       {
         "rank": 3,
@@ -1205,17 +1205,17 @@
       {
         "rank": 5,
         "name": "GLM 5.2",
-        "pct": 4.73
+        "pct": 4.77
       },
       {
         "rank": 6,
         "name": "Gemini 3.1 Flash Lite",
-        "pct": 4.7
+        "pct": 4.68
       },
       {
         "rank": 7,
         "name": "Step 3.7 Flash",
-        "pct": 4.33
+        "pct": 4.31
       },
       {
         "rank": 8,
@@ -1224,12 +1224,12 @@
       },
       {
         "rank": 9,
-        "name": "Claude Haiku 4.5",
-        "pct": 3.2
+        "name": "GPT-4o mini",
+        "pct": 3.22
       },
       {
         "rank": 10,
-        "name": "GPT-4o mini",
+        "name": "Claude Haiku 4.5",
         "pct": 3.2
       }
     ]
@@ -1242,17 +1242,17 @@
       {
         "rank": 1,
         "name": "DeepSeek V4 Flash",
-        "pct": 20.02
+        "pct": 19.94
       },
       {
         "rank": 2,
         "name": "Step 3.7 Flash",
-        "pct": 12.98
+        "pct": 12.94
       },
       {
         "rank": 3,
         "name": "GLM 5.2",
-        "pct": 7.32
+        "pct": 7.37
       },
       {
         "rank": 4,
@@ -1262,7 +1262,7 @@
       {
         "rank": 5,
         "name": "DeepSeek V4 Flash 0731",
-        "pct": 5.58
+        "pct": 5.61
       },
       {
         "rank": 6,
@@ -1272,22 +1272,22 @@
       {
         "rank": 7,
         "name": "Claude Opus 4.8",
-        "pct": 5.24
+        "pct": 5.27
       },
       {
         "rank": 8,
         "name": "Claude Sonnet 5",
-        "pct": 4.46
+        "pct": 4.5
       },
       {
         "rank": 9,
         "name": "GPT-5 nano",
-        "pct": 2.99
+        "pct": 2.96
       },
       {
         "rank": 10,
         "name": "Muse Spark 1.2 Contributor",
-        "pct": 2.49
+        "pct": 2.45
       }
     ]
   }

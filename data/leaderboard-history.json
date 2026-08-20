@@ -1,7 +1,7 @@
 [
   {
     "date": "2025-07-01",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -23,7 +23,7 @@
   },
   {
     "date": "2025-07-02",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -45,7 +45,7 @@
   },
   {
     "date": "2025-07-03",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -67,7 +67,7 @@
   },
   {
     "date": "2025-07-04",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -89,7 +89,7 @@
   },
   {
     "date": "2025-07-05",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -111,7 +111,7 @@
   },
   {
     "date": "2025-07-06",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -133,7 +133,7 @@
   },
   {
     "date": "2025-07-07",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -155,7 +155,7 @@
   },
   {
     "date": "2025-07-08",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -177,7 +177,7 @@
   },
   {
     "date": "2025-07-09",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -199,7 +199,7 @@
   },
   {
     "date": "2025-07-10",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -221,7 +221,7 @@
   },
   {
     "date": "2025-07-11",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -243,7 +243,7 @@
   },
   {
     "date": "2025-07-12",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -265,7 +265,7 @@
   },
   {
     "date": "2025-07-13",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -287,7 +287,7 @@
   },
   {
     "date": "2025-07-14",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -309,7 +309,7 @@
   },
   {
     "date": "2025-07-15",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -331,7 +331,7 @@
   },
   {
     "date": "2025-07-16",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -353,7 +353,7 @@
   },
   {
     "date": "2025-07-17",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -375,7 +375,7 @@
   },
   {
     "date": "2025-07-18",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -397,7 +397,7 @@
   },
   {
     "date": "2025-07-19",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -419,7 +419,7 @@
   },
   {
     "date": "2025-07-20",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -441,7 +441,7 @@
   },
   {
     "date": "2025-07-21",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -463,7 +463,7 @@
   },
   {
     "date": "2025-07-22",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -485,7 +485,7 @@
   },
   {
     "date": "2025-07-23",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -507,7 +507,7 @@
   },
   {
     "date": "2025-07-24",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -529,7 +529,7 @@
   },
   {
     "date": "2025-07-25",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -551,7 +551,7 @@
   },
   {
     "date": "2025-07-26",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -573,7 +573,7 @@
   },
   {
     "date": "2025-07-27",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -595,7 +595,7 @@
   },
   {
     "date": "2025-07-28",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -617,7 +617,7 @@
   },
   {
     "date": "2025-07-29",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -639,7 +639,7 @@
   },
   {
     "date": "2025-07-30",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -661,7 +661,7 @@
   },
   {
     "date": "2025-07-31",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -683,7 +683,7 @@
   },
   {
     "date": "2025-08-01",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -705,7 +705,7 @@
   },
   {
     "date": "2025-08-02",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -727,7 +727,7 @@
   },
   {
     "date": "2025-08-03",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -749,7 +749,7 @@
   },
   {
     "date": "2025-08-04",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -771,7 +771,7 @@
   },
   {
     "date": "2025-08-05",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -793,7 +793,7 @@
   },
   {
     "date": "2025-08-06",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -815,7 +815,7 @@
   },
   {
     "date": "2025-08-07",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -842,7 +842,7 @@
   },
   {
     "date": "2025-08-08",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -869,7 +869,7 @@
   },
   {
     "date": "2025-08-09",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -896,7 +896,7 @@
   },
   {
     "date": "2025-08-10",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -923,7 +923,7 @@
   },
   {
     "date": "2025-08-11",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -950,7 +950,7 @@
   },
   {
     "date": "2025-08-12",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -977,7 +977,7 @@
   },
   {
     "date": "2025-08-13",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1004,7 +1004,7 @@
   },
   {
     "date": "2025-08-14",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1031,7 +1031,7 @@
   },
   {
     "date": "2025-08-15",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1063,7 +1063,7 @@
   },
   {
     "date": "2025-08-16",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1095,7 +1095,7 @@
   },
   {
     "date": "2025-08-17",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1127,7 +1127,7 @@
   },
   {
     "date": "2025-08-18",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1159,7 +1159,7 @@
   },
   {
     "date": "2025-08-19",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1191,7 +1191,7 @@
   },
   {
     "date": "2025-08-20",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1223,7 +1223,7 @@
   },
   {
     "date": "2025-08-21",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1255,7 +1255,7 @@
   },
   {
     "date": "2025-08-22",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1287,7 +1287,7 @@
   },
   {
     "date": "2025-08-23",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1319,7 +1319,7 @@
   },
   {
     "date": "2025-08-24",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1351,7 +1351,7 @@
   },
   {
     "date": "2025-08-25",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1383,7 +1383,7 @@
   },
   {
     "date": "2025-08-26",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1415,7 +1415,7 @@
   },
   {
     "date": "2025-08-27",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1452,7 +1452,7 @@
   },
   {
     "date": "2025-08-28",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1489,7 +1489,7 @@
   },
   {
     "date": "2025-08-29",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1526,7 +1526,7 @@
   },
   {
     "date": "2025-08-30",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1563,7 +1563,7 @@
   },
   {
     "date": "2025-08-31",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1600,7 +1600,7 @@
   },
   {
     "date": "2025-09-01",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1637,7 +1637,7 @@
   },
   {
     "date": "2025-09-02",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1674,7 +1674,7 @@
   },
   {
     "date": "2025-09-03",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1711,7 +1711,7 @@
   },
   {
     "date": "2025-09-04",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1748,7 +1748,7 @@
   },
   {
     "date": "2025-09-05",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1785,7 +1785,7 @@
   },
   {
     "date": "2025-09-06",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1822,7 +1822,7 @@
   },
   {
     "date": "2025-09-07",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1859,7 +1859,7 @@
   },
   {
     "date": "2025-09-08",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1896,7 +1896,7 @@
   },
   {
     "date": "2025-09-09",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1933,7 +1933,7 @@
   },
   {
     "date": "2025-09-10",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -1970,7 +1970,7 @@
   },
   {
     "date": "2025-09-11",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2007,7 +2007,7 @@
   },
   {
     "date": "2025-09-12",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2044,7 +2044,7 @@
   },
   {
     "date": "2025-09-13",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2081,7 +2081,7 @@
   },
   {
     "date": "2025-09-14",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2118,7 +2118,7 @@
   },
   {
     "date": "2025-09-15",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2155,7 +2155,7 @@
   },
   {
     "date": "2025-09-16",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2192,7 +2192,7 @@
   },
   {
     "date": "2025-09-17",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2229,7 +2229,7 @@
   },
   {
     "date": "2025-09-18",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2266,7 +2266,7 @@
   },
   {
     "date": "2025-09-19",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2303,7 +2303,7 @@
   },
   {
     "date": "2025-09-20",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2340,7 +2340,7 @@
   },
   {
     "date": "2025-09-21",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2377,7 +2377,7 @@
   },
   {
     "date": "2025-09-22",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2414,7 +2414,7 @@
   },
   {
     "date": "2025-09-23",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2456,7 +2456,7 @@
   },
   {
     "date": "2025-09-24",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2498,7 +2498,7 @@
   },
   {
     "date": "2025-09-25",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2540,7 +2540,7 @@
   },
   {
     "date": "2025-09-26",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2582,7 +2582,7 @@
   },
   {
     "date": "2025-09-27",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2624,7 +2624,7 @@
   },
   {
     "date": "2025-09-28",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2666,7 +2666,7 @@
   },
   {
     "date": "2025-09-29",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2713,7 +2713,7 @@
   },
   {
     "date": "2025-09-30",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2760,7 +2760,7 @@
   },
   {
     "date": "2025-10-01",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2807,7 +2807,7 @@
   },
   {
     "date": "2025-10-02",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2854,7 +2854,7 @@
   },
   {
     "date": "2025-10-03",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2901,7 +2901,7 @@
   },
   {
     "date": "2025-10-04",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2948,7 +2948,7 @@
   },
   {
     "date": "2025-10-05",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -2995,7 +2995,7 @@
   },
   {
     "date": "2025-10-06",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3042,7 +3042,7 @@
   },
   {
     "date": "2025-10-07",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3089,7 +3089,7 @@
   },
   {
     "date": "2025-10-08",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3136,7 +3136,7 @@
   },
   {
     "date": "2025-10-09",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3183,7 +3183,7 @@
   },
   {
     "date": "2025-10-10",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3230,7 +3230,7 @@
   },
   {
     "date": "2025-10-11",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3277,7 +3277,7 @@
   },
   {
     "date": "2025-10-12",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3324,7 +3324,7 @@
   },
   {
     "date": "2025-10-13",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3371,7 +3371,7 @@
   },
   {
     "date": "2025-10-14",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3418,7 +3418,7 @@
   },
   {
     "date": "2025-10-15",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3470,7 +3470,7 @@
   },
   {
     "date": "2025-10-16",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3522,7 +3522,7 @@
   },
   {
     "date": "2025-10-17",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3574,7 +3574,7 @@
   },
   {
     "date": "2025-10-18",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3626,7 +3626,7 @@
   },
   {
     "date": "2025-10-19",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3678,7 +3678,7 @@
   },
   {
     "date": "2025-10-20",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3730,7 +3730,7 @@
   },
   {
     "date": "2025-10-21",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3782,7 +3782,7 @@
   },
   {
     "date": "2025-10-22",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3834,7 +3834,7 @@
   },
   {
     "date": "2025-10-23",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3886,7 +3886,7 @@
   },
   {
     "date": "2025-10-24",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3938,7 +3938,7 @@
   },
   {
     "date": "2025-10-25",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -3990,7 +3990,7 @@
   },
   {
     "date": "2025-10-26",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4042,7 +4042,7 @@
   },
   {
     "date": "2025-10-27",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4094,7 +4094,7 @@
   },
   {
     "date": "2025-10-28",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4146,7 +4146,7 @@
   },
   {
     "date": "2025-10-29",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4198,7 +4198,7 @@
   },
   {
     "date": "2025-10-30",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4250,7 +4250,7 @@
   },
   {
     "date": "2025-10-31",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4302,7 +4302,7 @@
   },
   {
     "date": "2025-11-01",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4354,7 +4354,7 @@
   },
   {
     "date": "2025-11-02",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4406,7 +4406,7 @@
   },
   {
     "date": "2025-11-03",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4458,7 +4458,7 @@
   },
   {
     "date": "2025-11-04",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4510,7 +4510,7 @@
   },
   {
     "date": "2025-11-05",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4562,7 +4562,7 @@
   },
   {
     "date": "2025-11-06",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4614,7 +4614,7 @@
   },
   {
     "date": "2025-11-07",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4666,7 +4666,7 @@
   },
   {
     "date": "2025-11-08",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4718,7 +4718,7 @@
   },
   {
     "date": "2025-11-09",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4770,7 +4770,7 @@
   },
   {
     "date": "2025-11-10",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4822,7 +4822,7 @@
   },
   {
     "date": "2025-11-11",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4874,7 +4874,7 @@
   },
   {
     "date": "2025-11-12",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4926,7 +4926,7 @@
   },
   {
     "date": "2025-11-13",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -4978,7 +4978,7 @@
   },
   {
     "date": "2025-11-14",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5030,7 +5030,7 @@
   },
   {
     "date": "2025-11-15",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5082,7 +5082,7 @@
   },
   {
     "date": "2025-11-16",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5134,7 +5134,7 @@
   },
   {
     "date": "2025-11-17",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5186,7 +5186,7 @@
   },
   {
     "date": "2025-11-18",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5243,7 +5243,7 @@
   },
   {
     "date": "2025-11-19",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5300,7 +5300,7 @@
   },
   {
     "date": "2025-11-20",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5357,7 +5357,7 @@
   },
   {
     "date": "2025-11-21",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5414,7 +5414,7 @@
   },
   {
     "date": "2025-11-22",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5471,7 +5471,7 @@
   },
   {
     "date": "2025-11-23",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5528,7 +5528,7 @@
   },
   {
     "date": "2025-11-24",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5585,7 +5585,7 @@
   },
   {
     "date": "2025-11-25",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5642,7 +5642,7 @@
   },
   {
     "date": "2025-11-26",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5699,7 +5699,7 @@
   },
   {
     "date": "2025-11-27",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5756,7 +5756,7 @@
   },
   {
     "date": "2025-11-28",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5813,7 +5813,7 @@
   },
   {
     "date": "2025-11-29",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5870,7 +5870,7 @@
   },
   {
     "date": "2025-11-30",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5927,7 +5927,7 @@
   },
   {
     "date": "2025-12-01",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -5984,7 +5984,7 @@
   },
   {
     "date": "2025-12-02",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6041,7 +6041,7 @@
   },
   {
     "date": "2025-12-03",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6098,7 +6098,7 @@
   },
   {
     "date": "2025-12-04",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6155,7 +6155,7 @@
   },
   {
     "date": "2025-12-05",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6212,7 +6212,7 @@
   },
   {
     "date": "2025-12-06",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6269,7 +6269,7 @@
   },
   {
     "date": "2025-12-07",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6316,7 +6316,7 @@
   },
   {
     "date": "2025-12-08",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6363,7 +6363,7 @@
   },
   {
     "date": "2025-12-09",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6410,7 +6410,7 @@
   },
   {
     "date": "2025-12-10",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6457,7 +6457,7 @@
   },
   {
     "date": "2025-12-11",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6509,7 +6509,7 @@
   },
   {
     "date": "2025-12-12",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6561,7 +6561,7 @@
   },
   {
     "date": "2025-12-13",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6613,7 +6613,7 @@
   },
   {
     "date": "2025-12-14",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6665,7 +6665,7 @@
   },
   {
     "date": "2025-12-15",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6717,7 +6717,7 @@
   },
   {
     "date": "2025-12-16",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6769,7 +6769,7 @@
   },
   {
     "date": "2025-12-17",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6826,7 +6826,7 @@
   },
   {
     "date": "2025-12-18",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6883,7 +6883,7 @@
   },
   {
     "date": "2025-12-19",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6940,7 +6940,7 @@
   },
   {
     "date": "2025-12-20",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -6997,7 +6997,7 @@
   },
   {
     "date": "2025-12-21",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7054,7 +7054,7 @@
   },
   {
     "date": "2025-12-22",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7111,7 +7111,7 @@
   },
   {
     "date": "2025-12-23",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7168,7 +7168,7 @@
   },
   {
     "date": "2025-12-24",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7225,7 +7225,7 @@
   },
   {
     "date": "2025-12-25",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7282,7 +7282,7 @@
   },
   {
     "date": "2025-12-26",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7339,7 +7339,7 @@
   },
   {
     "date": "2025-12-27",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7396,7 +7396,7 @@
   },
   {
     "date": "2025-12-28",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7453,7 +7453,7 @@
   },
   {
     "date": "2025-12-29",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7510,7 +7510,7 @@
   },
   {
     "date": "2025-12-30",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7567,7 +7567,7 @@
   },
   {
     "date": "2025-12-31",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7624,7 +7624,7 @@
   },
   {
     "date": "2026-01-01",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7681,7 +7681,7 @@
   },
   {
     "date": "2026-01-02",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7738,7 +7738,7 @@
   },
   {
     "date": "2026-01-03",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7795,7 +7795,7 @@
   },
   {
     "date": "2026-01-04",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7852,7 +7852,7 @@
   },
   {
     "date": "2026-01-05",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7909,7 +7909,7 @@
   },
   {
     "date": "2026-01-06",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -7966,7 +7966,7 @@
   },
   {
     "date": "2026-01-07",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8023,7 +8023,7 @@
   },
   {
     "date": "2026-01-08",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8080,7 +8080,7 @@
   },
   {
     "date": "2026-01-09",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8137,7 +8137,7 @@
   },
   {
     "date": "2026-01-10",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8194,7 +8194,7 @@
   },
   {
     "date": "2026-01-11",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8251,7 +8251,7 @@
   },
   {
     "date": "2026-01-12",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8308,7 +8308,7 @@
   },
   {
     "date": "2026-01-13",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8365,7 +8365,7 @@
   },
   {
     "date": "2026-01-14",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8422,7 +8422,7 @@
   },
   {
     "date": "2026-01-15",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8479,7 +8479,7 @@
   },
   {
     "date": "2026-01-16",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8536,7 +8536,7 @@
   },
   {
     "date": "2026-01-17",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8593,7 +8593,7 @@
   },
   {
     "date": "2026-01-18",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8650,7 +8650,7 @@
   },
   {
     "date": "2026-01-19",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8707,7 +8707,7 @@
   },
   {
     "date": "2026-01-20",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8764,7 +8764,7 @@
   },
   {
     "date": "2026-01-21",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8821,7 +8821,7 @@
   },
   {
     "date": "2026-01-22",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8878,7 +8878,7 @@
   },
   {
     "date": "2026-01-23",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8935,7 +8935,7 @@
   },
   {
     "date": "2026-01-24",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -8992,7 +8992,7 @@
   },
   {
     "date": "2026-01-25",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9049,7 +9049,7 @@
   },
   {
     "date": "2026-01-26",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9106,7 +9106,7 @@
   },
   {
     "date": "2026-01-27",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9163,7 +9163,7 @@
   },
   {
     "date": "2026-01-28",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9220,7 +9220,7 @@
   },
   {
     "date": "2026-01-29",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9257,7 +9257,7 @@
   },
   {
     "date": "2026-01-30",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9294,7 +9294,7 @@
   },
   {
     "date": "2026-01-31",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9331,7 +9331,7 @@
   },
   {
     "date": "2026-02-01",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9368,7 +9368,7 @@
   },
   {
     "date": "2026-02-02",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9405,7 +9405,7 @@
   },
   {
     "date": "2026-02-03",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9442,7 +9442,7 @@
   },
   {
     "date": "2026-02-04",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9479,7 +9479,7 @@
   },
   {
     "date": "2026-02-05",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9521,7 +9521,7 @@
   },
   {
     "date": "2026-02-06",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9563,7 +9563,7 @@
   },
   {
     "date": "2026-02-07",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9605,7 +9605,7 @@
   },
   {
     "date": "2026-02-08",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9647,7 +9647,7 @@
   },
   {
     "date": "2026-02-09",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9689,7 +9689,7 @@
   },
   {
     "date": "2026-02-10",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9731,7 +9731,7 @@
   },
   {
     "date": "2026-02-11",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9773,7 +9773,7 @@
   },
   {
     "date": "2026-02-12",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9820,7 +9820,7 @@
   },
   {
     "date": "2026-02-13",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9867,7 +9867,7 @@
   },
   {
     "date": "2026-02-14",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9914,7 +9914,7 @@
   },
   {
     "date": "2026-02-15",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -9961,7 +9961,7 @@
   },
   {
     "date": "2026-02-16",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10008,7 +10008,7 @@
   },
   {
     "date": "2026-02-17",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10060,7 +10060,7 @@
   },
   {
     "date": "2026-02-18",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10112,7 +10112,7 @@
   },
   {
     "date": "2026-02-19",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10164,7 +10164,7 @@
   },
   {
     "date": "2026-02-20",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10216,7 +10216,7 @@
   },
   {
     "date": "2026-02-21",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10268,7 +10268,7 @@
   },
   {
     "date": "2026-02-22",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10320,7 +10320,7 @@
   },
   {
     "date": "2026-02-23",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10372,7 +10372,7 @@
   },
   {
     "date": "2026-02-24",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10424,7 +10424,7 @@
   },
   {
     "date": "2026-02-25",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10476,7 +10476,7 @@
   },
   {
     "date": "2026-02-26",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10528,7 +10528,7 @@
   },
   {
     "date": "2026-02-27",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10580,7 +10580,7 @@
   },
   {
     "date": "2026-02-28",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10632,7 +10632,7 @@
   },
   {
     "date": "2026-03-01",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10684,7 +10684,7 @@
   },
   {
     "date": "2026-03-02",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10736,7 +10736,7 @@
   },
   {
     "date": "2026-03-03",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10788,7 +10788,7 @@
   },
   {
     "date": "2026-03-04",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10840,7 +10840,7 @@
   },
   {
     "date": "2026-03-05",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10897,7 +10897,7 @@
   },
   {
     "date": "2026-03-06",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -10954,7 +10954,7 @@
   },
   {
     "date": "2026-03-07",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -11011,7 +11011,7 @@
   },
   {
     "date": "2026-03-08",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -11068,7 +11068,7 @@
   },
   {
     "date": "2026-03-09",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -11125,7 +11125,7 @@
   },
   {
     "date": "2026-03-10",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -11182,7 +11182,7 @@
   },
   {
     "date": "2026-03-11",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -11239,7 +11239,7 @@
   },
   {
     "date": "2026-03-12",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -11296,7 +11296,7 @@
   },
   {
     "date": "2026-03-13",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -11353,7 +11353,7 @@
   },
   {
     "date": "2026-03-14",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -11410,7 +11410,7 @@
   },
   {
     "date": "2026-03-15",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -11467,7 +11467,7 @@
   },
   {
     "date": "2026-03-16",
-    "metric": "requests",
+    "metric": "tokens",
     "type": "daily",
     "models": [
       {
@@ -35356,52 +35356,52 @@
       {
         "rank": 1,
         "name": "Claude Opus 5",
-        "pct": 20.34
+        "pct": 20.39
       },
       {
         "rank": 2,
         "name": "Claude Opus 4.8",
-        "pct": 16.54
+        "pct": 16.52
       },
       {
         "rank": 3,
         "name": "GLM 5.2",
-        "pct": 7.56
+        "pct": 7.55
       },
       {
         "rank": 4,
         "name": "GPT 5.6 Sol",
-        "pct": 6.82
+        "pct": 6.86
       },
       {
         "rank": 5,
         "name": "Claude Sonnet 5",
-        "pct": 5.92
+        "pct": 5.95
       },
       {
         "rank": 6,
         "name": "Claude Opus 4.6",
-        "pct": 5.41
+        "pct": 5.46
       },
       {
         "rank": 7,
         "name": "Claude Sonnet 4.6",
-        "pct": 4.3
+        "pct": 4.29
       },
       {
         "rank": 8,
         "name": "Claude Fable 5",
-        "pct": 4.24
+        "pct": 4.25
       },
       {
         "rank": 9,
         "name": "Kimi K3",
-        "pct": 2.14
+        "pct": 2.11
       },
       {
         "rank": 10,
         "name": "Claude Haiku 4.5",
-        "pct": 2.05
+        "pct": 2.04
       }
     ]
   },
@@ -35413,12 +35413,12 @@
       {
         "rank": 1,
         "name": "GPT-5 nano",
-        "pct": 11.74
+        "pct": 11.64
       },
       {
         "rank": 2,
         "name": "DeepSeek V4 Flash",
-        "pct": 6.57
+        "pct": 6.56
       },
       {
         "rank": 3,
@@ -35433,17 +35433,17 @@
       {
         "rank": 5,
         "name": "GLM 5.2",
-        "pct": 4.73
+        "pct": 4.77
       },
       {
         "rank": 6,
         "name": "Gemini 3.1 Flash Lite",
-        "pct": 4.7
+        "pct": 4.68
       },
       {
         "rank": 7,
         "name": "Step 3.7 Flash",
-        "pct": 4.33
+        "pct": 4.31
       },
       {
         "rank": 8,
@@ -35452,12 +35452,12 @@
       },
       {
         "rank": 9,
-        "name": "Claude Haiku 4.5",
-        "pct": 3.2
+        "name": "GPT-4o mini",
+        "pct": 3.22
       },
       {
         "rank": 10,
-        "name": "GPT-4o mini",
+        "name": "Claude Haiku 4.5",
         "pct": 3.2
       }
     ]
@@ -35470,17 +35470,17 @@
       {
         "rank": 1,
         "name": "DeepSeek V4 Flash",
-        "pct": 20.02
+        "pct": 19.94
       },
       {
         "rank": 2,
         "name": "Step 3.7 Flash",
-        "pct": 12.98
+        "pct": 12.94
       },
       {
         "rank": 3,
         "name": "GLM 5.2",
-        "pct": 7.32
+        "pct": 7.37
       },
       {
         "rank": 4,
@@ -35490,7 +35490,7 @@
       {
         "rank": 5,
         "name": "DeepSeek V4 Flash 0731",
-        "pct": 5.58
+        "pct": 5.61
       },
       {
         "rank": 6,
@@ -35500,22 +35500,22 @@
       {
         "rank": 7,
         "name": "Claude Opus 4.8",
-        "pct": 5.24
+        "pct": 5.27
       },
       {
         "rank": 8,
         "name": "Claude Sonnet 5",
-        "pct": 4.46
+        "pct": 4.5
       },
       {
         "rank": 9,
         "name": "GPT-5 nano",
-        "pct": 2.99
+        "pct": 2.96
       },
       {
         "rank": 10,
         "name": "Muse Spark 1.2 Contributor",
-        "pct": 2.49
+        "pct": 2.45
       }
     ]
   }
