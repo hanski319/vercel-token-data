@@ -73,11 +73,10 @@ function parseNewSchema(html, source) {
 // ---- schema B: pre-May-2026 page, "dataTop10Only":[{"date":epochMs,"Model A":pct,"Model B":pct,...},...]
 // This chart only ever published a request-share breakdown (no tokens/cost split existed
 // yet) -- see PLAN.md "Known soft spots".
-const OLD_SCHEMA_RE = /\\?"dataTop10Only\\?":\[(.*?)\]\\?"/s;
-const OLD_SCHEMA_RE2 = /\\?"dataTop10Only\\?":\[(.*?)\]/s;
+const OLD_SCHEMA_RE = /\\?"dataTop10Only\\?":\[(.*?)\]/s;
 
 function parseOldSchema(html, source) {
-  const match = html.match(OLD_SCHEMA_RE2);
+  const match = html.match(OLD_SCHEMA_RE);
   if (!match) return [];
   const bodyRaw = match[1];
   let entries;
@@ -104,7 +103,7 @@ function parseOldSchema(html, source) {
 
 function toRanked(pairs) {
   const sorted = [...pairs]
-    .filter(([name, pct]) => typeof pct === "number" && Number.isFinite(pct))
+    .filter(([, pct]) => typeof pct === "number" && Number.isFinite(pct))
     .sort((a, b) => b[1] - a[1]);
   const top = sorted.slice(0, TOP_N);
   const rest = sorted.slice(TOP_N);
@@ -123,12 +122,10 @@ function toRanked(pairs) {
 async function main() {
   console.log("Fetching live page...");
   const records = [];
-  let liveSources = 0;
   try {
     const liveHtml = await fetchText(LIVE_URL);
     const found = parseNewSchema(liveHtml, "live");
     records.push(...found);
-    liveSources++;
     console.log(`  live page: ${found.length} day/metric records`);
   } catch (err) {
     console.error("  live fetch failed:", err.message);

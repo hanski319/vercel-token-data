@@ -14,41 +14,54 @@ export function getAllMetricsAllGranularities(): LeaderboardRecord[] {
   return [...DAILY, ...MONTHLY];
 }
 
-/** Stable color assignment: same model name -> same hue everywhere, derived
- * from a hash of the name so it doesn't shift as new models enter the top 10. */
-const PALETTE = [
-  "#6ee7ff", // cyan
-  "#a78bfa", // violet
-  "#f472b6", // pink
-  "#fb923c", // orange
-  "#facc15", // yellow
-  "#4ade80", // green
-  "#60a5fa", // blue
-  "#f87171", // red
-  "#2dd4bf", // teal
-  "#c084fc", // purple
-  "#fbbf24", // amber
-  "#34d399", // emerald
+/** Infer the model's provider/lab from its name so the table can color and
+ * label cells the way openrouter.ai-style leaderboards do (same provider,
+ * same color, everywhere). Falls back to "Other" for anything unrecognized
+ * rather than guessing wrong. */
+const PROVIDER_RULES: [RegExp, string, string][] = [
+  [/^claude/i, "Anthropic", "#d97757"],
+  [/^gpt|^text-embedding|^o[1-9]\b|^dall-e/i, "OpenAI", "#34d399"],
+  [/^gemini/i, "Google", "#60a5fa"],
+  [/^deepseek/i, "DeepSeek", "#a78bfa"],
+  [/^glm/i, "Zhipu", "#f472b6"],
+  [/^step/i, "StepFun", "#facc15"],
+  [/^(mini)?max|^minimax/i, "MiniMax", "#2dd4bf"],
+  [/^kimi|^moonshot/i, "Moonshot AI", "#c084fc"],
+  [/^grok/i, "xAI", "#f87171"],
+  [/^llama/i, "Meta", "#fbbf24"],
+  [/^qwen/i, "Alibaba", "#38bdf8"],
+  [/^mistral|^mixtral|^codestral/i, "Mistral", "#fb923c"],
+  [/^nova/i, "Amazon", "#eab308"],
+  [/^command/i, "Cohere", "#f97316"],
+  [/^perplexity|^sonar/i, "Perplexity", "#22d3ee"],
 ];
 
-function hashString(str: string): number {
-  let h = 0;
-  for (let i = 0; i < str.length; i++) {
-    h = (h << 5) - h + str.charCodeAt(i);
-    h |= 0;
+export function providerFor(name: string): { provider: string; color: string } {
+  if (name === "Other") return { provider: "Other", color: "#555555" };
+  for (const [re, provider, color] of PROVIDER_RULES) {
+    if (re.test(name)) return { provider, color };
   }
-  return Math.abs(h);
+  return { provider: "Other", color: "#6b7280" };
 }
 
-export function colorForModel(name: string): string {
-  if (name === "Other") return "#4b5563"; // neutral gray, always
-  return PALETTE[hashString(name) % PALETTE.length];
+/** True if `date` (YYYY-MM-DD) falls short of that month's last day --
+ * i.e. this is an in-progress month, not a closed one. */
+export function isPartialMonth(date: string): boolean {
+  const [y, m, d] = date.split("-").map(Number);
+  const lastDay = new Date(Date.UTC(y, m, 0)).getUTCDate();
+  return d < lastDay;
 }
 
-/** Pivot a set of records (one per date) into a chart-friendly shape:
- * a row per date with one column per model name (the union of top models
- * across the whole series), values are pct (0 if absent that day). */
-export function pivotForChart(records: LeaderboardRecord[]) {
+export function monthLabel(date: string): string {
+  const d = new Date(date + "T00:00:00Z");
+  return d.toLocaleDateString("en-US", { month: "short", year: "numeric", timeZone: "UTC" });
+}
+
+/** Pivot a set of records (one per date) into a wide, spreadsheet-friendly
+ * shape: a row per date with one column per model name (the union of top
+ * models across the whole series), values are pct (0 if absent that day).
+ * Used for the XLSX export. */
+export function pivotWide(records: LeaderboardRecord[]) {
   const modelSet = new Set<string>();
   for (const r of records) for (const m of r.models) modelSet.add(m.name);
   // Rank models by their best (max) share across the series so the legend/stack

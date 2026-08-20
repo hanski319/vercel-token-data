@@ -1,13 +1,13 @@
 import ExcelJS from "exceljs";
 import { NextRequest } from "next/server";
-import { getRecords, pivotForChart } from "@/lib/data";
+import { getRecords, pivotWide } from "@/lib/data";
 import { METRIC_LABEL, type Metric } from "@/lib/types";
 
 const METRICS: Metric[] = ["tokens", "cost", "requests"];
 
 function addSheet(workbook: ExcelJS.Workbook, metric: Metric) {
   const daily = getRecords(metric, "daily");
-  const { models, rows } = pivotForChart(daily);
+  const { models, rows } = pivotWide(daily);
 
   const sheet = workbook.addWorksheet(METRIC_LABEL[metric].slice(0, 31));
   sheet.columns = [

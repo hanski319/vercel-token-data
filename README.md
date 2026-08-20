@@ -1,6 +1,6 @@
 # Vercel Token Data
 
-Historical market-share trends for the top models on [Vercel AI Gateway](https://vercel.com/ai-gateway/leaderboards/models) — token volume, spend, and requests — going back to July 2025 where the data exists.
+Top 10 models by share of [Vercel AI Gateway](https://vercel.com/ai-gateway/leaderboards/models) traffic — token volume, spend, and requests — as a month-by-month matrix, downloadable as XLSX.
 
 Not affiliated with Vercel. Companion project to [`token-usage-open-router`](https://github.com/hanski319/token-usage-open-router).
 
@@ -8,7 +8,7 @@ See [PLAN.md](./PLAN.md) for how the data is sourced, the two page schemas it pa
 
 ## Stack
 
-Next.js 16 (App Router) · React 19 · TypeScript · Tailwind v4 · Recharts · ExcelJS
+Next.js 16 (App Router) · React 19 · TypeScript · Tailwind v4 · ExcelJS
 
 ## Development
 
