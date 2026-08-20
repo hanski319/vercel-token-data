@@ -1,0 +1,1294 @@
+[
+  {
+    "date": "2025-07-31",
+    "metric": "requests",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Claude Sonnet 4",
+        "pct": 43.81
+      },
+      {
+        "rank": 2,
+        "name": "Gemini 2.5 Flash",
+        "pct": 8.19
+      },
+      {
+        "rank": 3,
+        "name": "Claude 3.7 Sonnet",
+        "pct": 0.28
+      }
+    ]
+  },
+  {
+    "date": "2025-08-31",
+    "metric": "requests",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "GPT-5",
+        "pct": 22.22
+      },
+      {
+        "rank": 2,
+        "name": "Claude Sonnet 4",
+        "pct": 7.86
+      },
+      {
+        "rank": 3,
+        "name": "Gemini 2.5 Flash Lite",
+        "pct": 3.82
+      },
+      {
+        "rank": 4,
+        "name": "Gemini 2.5 Flash",
+        "pct": 3.29
+      },
+      {
+        "rank": 5,
+        "name": "Grok Code Fast 1",
+        "pct": 2.7
+      },
+      {
+        "rank": 6,
+        "name": "Claude 3.7 Sonnet",
+        "pct": 0.82
+      }
+    ]
+  },
+  {
+    "date": "2025-09-30",
+    "metric": "requests",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "GPT-5",
+        "pct": 16.72
+      },
+      {
+        "rank": 2,
+        "name": "Claude Sonnet 4.5",
+        "pct": 15.57
+      },
+      {
+        "rank": 3,
+        "name": "Claude Sonnet 4",
+        "pct": 13.61
+      },
+      {
+        "rank": 4,
+        "name": "Gemini 2.5 Flash Lite",
+        "pct": 9.16
+      },
+      {
+        "rank": 5,
+        "name": "Gemini 2.5 Flash",
+        "pct": 5.44
+      },
+      {
+        "rank": 6,
+        "name": "Claude 3.7 Sonnet",
+        "pct": 2.67
+      },
+      {
+        "rank": 7,
+        "name": "GPT-5-Codex",
+        "pct": 0.52
+      },
+      {
+        "rank": 8,
+        "name": "Grok Code Fast 1",
+        "pct": 0.13
+      }
+    ]
+  },
+  {
+    "date": "2025-10-31",
+    "metric": "requests",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Claude Haiku 4.5",
+        "pct": 20.38
+      },
+      {
+        "rank": 2,
+        "name": "Claude Sonnet 4.5",
+        "pct": 15.9
+      },
+      {
+        "rank": 3,
+        "name": "Claude Sonnet 4",
+        "pct": 11.11
+      },
+      {
+        "rank": 4,
+        "name": "Gemini 2.5 Flash",
+        "pct": 5.4
+      },
+      {
+        "rank": 5,
+        "name": "GPT-5",
+        "pct": 3.12
+      },
+      {
+        "rank": 6,
+        "name": "Claude 3.7 Sonnet",
+        "pct": 0.58
+      },
+      {
+        "rank": 7,
+        "name": "Gemini 2.5 Flash Lite",
+        "pct": 0.45
+      },
+      {
+        "rank": 8,
+        "name": "GPT-5-Codex",
+        "pct": 0.3
+      },
+      {
+        "rank": 9,
+        "name": "Grok Code Fast 1",
+        "pct": 0.01
+      }
+    ]
+  },
+  {
+    "date": "2025-11-30",
+    "metric": "requests",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Grok Code Fast 1",
+        "pct": 46.65
+      },
+      {
+        "rank": 2,
+        "name": "Claude Sonnet 4.5",
+        "pct": 14.12
+      },
+      {
+        "rank": 3,
+        "name": "Claude Haiku 4.5",
+        "pct": 8.38
+      },
+      {
+        "rank": 4,
+        "name": "Claude 3.7 Sonnet",
+        "pct": 2.91
+      },
+      {
+        "rank": 5,
+        "name": "Gemini 3 Pro Preview",
+        "pct": 2.43
+      },
+      {
+        "rank": 6,
+        "name": "Gemini 2.5 Flash",
+        "pct": 1.92
+      },
+      {
+        "rank": 7,
+        "name": "Claude Sonnet 4",
+        "pct": 1.51
+      },
+      {
+        "rank": 8,
+        "name": "GPT-5 mini",
+        "pct": 0.79
+      },
+      {
+        "rank": 9,
+        "name": "MiniMax M2",
+        "pct": 0.52
+      },
+      {
+        "rank": 10,
+        "name": "Grok 4 Fast Reasoning",
+        "pct": 0.08
+      }
+    ]
+  },
+  {
+    "date": "2025-12-31",
+    "metric": "requests",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Grok Code Fast 1",
+        "pct": 52
+      },
+      {
+        "rank": 2,
+        "name": "Claude Sonnet 4.5",
+        "pct": 8.8
+      },
+      {
+        "rank": 3,
+        "name": "Gemini 2.5 Flash Lite",
+        "pct": 6.39
+      },
+      {
+        "rank": 4,
+        "name": "Gemini 3 Flash",
+        "pct": 3.73
+      },
+      {
+        "rank": 5,
+        "name": "Claude Haiku 4.5",
+        "pct": 3.59
+      },
+      {
+        "rank": 6,
+        "name": "Claude 3.7 Sonnet",
+        "pct": 1.77
+      },
+      {
+        "rank": 7,
+        "name": "Claude Opus 4.5",
+        "pct": 1.76
+      },
+      {
+        "rank": 8,
+        "name": "GPT-5.2",
+        "pct": 1.53
+      },
+      {
+        "rank": 9,
+        "name": "Claude Sonnet 4",
+        "pct": 1.22
+      },
+      {
+        "rank": 10,
+        "name": "Gemini 3 Pro Preview",
+        "pct": 1.02
+      }
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "metric": "requests",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "KAT-Coder-Pro V1",
+        "pct": 22.85
+      },
+      {
+        "rank": 2,
+        "name": "Gemini 3 Flash",
+        "pct": 7.43
+      },
+      {
+        "rank": 3,
+        "name": "Gemini 2.5 Flash Lite",
+        "pct": 5.88
+      },
+      {
+        "rank": 4,
+        "name": "Claude Haiku 4.5",
+        "pct": 4.29
+      },
+      {
+        "rank": 5,
+        "name": "Grok 4.1 Fast Non-Reasoning",
+        "pct": 0.57
+      },
+      {
+        "rank": 6,
+        "name": "Kimi K2.5",
+        "pct": 0.15
+      }
+    ]
+  },
+  {
+    "date": "2026-02-28",
+    "metric": "requests",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Claude Opus 4.6",
+        "pct": 21.18
+      },
+      {
+        "rank": 2,
+        "name": "KAT-Coder-Pro V1",
+        "pct": 18.84
+      },
+      {
+        "rank": 3,
+        "name": "Gemini 3 Flash",
+        "pct": 11.74
+      },
+      {
+        "rank": 4,
+        "name": "Claude Sonnet 4.6",
+        "pct": 9.66
+      },
+      {
+        "rank": 5,
+        "name": "Gemini 2.5 Flash Lite",
+        "pct": 5.11
+      },
+      {
+        "rank": 6,
+        "name": "Kimi K2.5",
+        "pct": 4.36
+      },
+      {
+        "rank": 7,
+        "name": "Claude Haiku 4.5",
+        "pct": 4.09
+      },
+      {
+        "rank": 8,
+        "name": "MiniMax M2.5",
+        "pct": 3.56
+      },
+      {
+        "rank": 9,
+        "name": "Grok 4.1 Fast Non-Reasoning",
+        "pct": 0.48
+      }
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "metric": "cost",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Claude Sonnet 4.6",
+        "pct": 52.54
+      },
+      {
+        "rank": 2,
+        "name": "Claude Opus 4.6",
+        "pct": 23.5
+      },
+      {
+        "rank": 3,
+        "name": "Gemini 3 Flash",
+        "pct": 7.45
+      },
+      {
+        "rank": 4,
+        "name": "Claude Haiku 4.5",
+        "pct": 1.63
+      },
+      {
+        "rank": 5,
+        "name": "Gemini 3.1 Pro Preview",
+        "pct": 1.13
+      },
+      {
+        "rank": 6,
+        "name": "GPT 5.4 Mini",
+        "pct": 0.58
+      },
+      {
+        "rank": 7,
+        "name": "Minimax M2.7",
+        "pct": 0.21
+      },
+      {
+        "rank": 8,
+        "name": "Gemini 3.1 Flash Lite Preview",
+        "pct": 0.11
+      }
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "metric": "requests",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Gemini 3 Flash",
+        "pct": 17.14
+      },
+      {
+        "rank": 2,
+        "name": "Claude Sonnet 4.6",
+        "pct": 11.93
+      },
+      {
+        "rank": 3,
+        "name": "Gemini 2.5 Flash Lite",
+        "pct": 11.71
+      },
+      {
+        "rank": 4,
+        "name": "GPT 5.4 Nano",
+        "pct": 7.08
+      },
+      {
+        "rank": 5,
+        "name": "text-embedding-3-small",
+        "pct": 1.94
+      },
+      {
+        "rank": 6,
+        "name": "text-embedding-3-large",
+        "pct": 1.87
+      },
+      {
+        "rank": 7,
+        "name": "GPT-4.1 mini",
+        "pct": 1.75
+      },
+      {
+        "rank": 8,
+        "name": "Gemini 3.1 Flash Lite Preview",
+        "pct": 1.68
+      },
+      {
+        "rank": 9,
+        "name": "GPT 5.4 Mini",
+        "pct": 1.39
+      }
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "metric": "tokens",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Gemini 3 Flash",
+        "pct": 25.26
+      },
+      {
+        "rank": 2,
+        "name": "Claude Sonnet 4.6",
+        "pct": 21.95
+      },
+      {
+        "rank": 3,
+        "name": "Claude Opus 4.6",
+        "pct": 15.24
+      },
+      {
+        "rank": 4,
+        "name": "GPT 5.4 Mini",
+        "pct": 2.88
+      },
+      {
+        "rank": 5,
+        "name": "Claude Haiku 4.5",
+        "pct": 2.6
+      },
+      {
+        "rank": 6,
+        "name": "Minimax M2.7",
+        "pct": 1.67
+      },
+      {
+        "rank": 7,
+        "name": "Gemini 3.1 Flash Lite Preview",
+        "pct": 0.42
+      }
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "metric": "cost",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Claude Opus 4.6",
+        "pct": 18.73
+      },
+      {
+        "rank": 2,
+        "name": "Claude Sonnet 4.6",
+        "pct": 16.51
+      },
+      {
+        "rank": 3,
+        "name": "Gemini 3 Flash",
+        "pct": 15.1
+      },
+      {
+        "rank": 4,
+        "name": "Claude Opus 4.7",
+        "pct": 14.21
+      },
+      {
+        "rank": 5,
+        "name": "GPT 5.5",
+        "pct": 5.28
+      },
+      {
+        "rank": 6,
+        "name": "Claude Haiku 4.5",
+        "pct": 3.04
+      },
+      {
+        "rank": 7,
+        "name": "Gemini 3.1 Pro Preview",
+        "pct": 2.14
+      },
+      {
+        "rank": 8,
+        "name": "GPT 5.4 Mini",
+        "pct": 1.8
+      },
+      {
+        "rank": 9,
+        "name": "Minimax M2.7",
+        "pct": 0.92
+      },
+      {
+        "rank": 10,
+        "name": "Gemini 3.1 Flash Lite Preview",
+        "pct": 0.52
+      }
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "metric": "requests",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Gemini 3 Flash",
+        "pct": 16.17
+      },
+      {
+        "rank": 2,
+        "name": "Gemini 2.5 Flash Lite",
+        "pct": 12.59
+      },
+      {
+        "rank": 3,
+        "name": "GPT 5.4 Nano",
+        "pct": 5.29
+      },
+      {
+        "rank": 4,
+        "name": "Gemini 3.1 Flash Lite Preview",
+        "pct": 4.36
+      },
+      {
+        "rank": 5,
+        "name": "GPT 5.4 Mini",
+        "pct": 3.83
+      },
+      {
+        "rank": 6,
+        "name": "GPT-4.1 mini",
+        "pct": 3.48
+      },
+      {
+        "rank": 7,
+        "name": "text-embedding-3-small",
+        "pct": 3.19
+      },
+      {
+        "rank": 8,
+        "name": "Claude Sonnet 4.6",
+        "pct": 2.59
+      },
+      {
+        "rank": 9,
+        "name": "text-embedding-3-large",
+        "pct": 2.36
+      },
+      {
+        "rank": 10,
+        "name": "DeepSeek V4 Flash",
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "metric": "tokens",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Gemini 3 Flash",
+        "pct": 32.54
+      },
+      {
+        "rank": 2,
+        "name": "Claude Sonnet 4.6",
+        "pct": 7.68
+      },
+      {
+        "rank": 3,
+        "name": "Claude Opus 4.7",
+        "pct": 6.83
+      },
+      {
+        "rank": 4,
+        "name": "Claude Opus 4.6",
+        "pct": 5.93
+      },
+      {
+        "rank": 5,
+        "name": "Minimax M2.7",
+        "pct": 4.87
+      },
+      {
+        "rank": 6,
+        "name": "GPT 5.4 Mini",
+        "pct": 3.95
+      },
+      {
+        "rank": 7,
+        "name": "Claude Haiku 4.5",
+        "pct": 3.51
+      },
+      {
+        "rank": 8,
+        "name": "DeepSeek V4 Pro",
+        "pct": 1.84
+      },
+      {
+        "rank": 9,
+        "name": "Gemini 3.1 Flash Lite Preview",
+        "pct": 1.27
+      },
+      {
+        "rank": 10,
+        "name": "DeepSeek V4 Flash",
+        "pct": 0.89
+      }
+    ]
+  },
+  {
+    "date": "2026-05-31",
+    "metric": "cost",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Claude Opus 4.8",
+        "pct": 28.63
+      },
+      {
+        "rank": 2,
+        "name": "Claude Sonnet 4.6",
+        "pct": 14.33
+      },
+      {
+        "rank": 3,
+        "name": "Gemini 3 Flash",
+        "pct": 12.29
+      },
+      {
+        "rank": 4,
+        "name": "Claude Opus 4.6",
+        "pct": 7.97
+      },
+      {
+        "rank": 5,
+        "name": "Claude Opus 4.7",
+        "pct": 4.66
+      },
+      {
+        "rank": 6,
+        "name": "Gemini 3.1 Pro Preview",
+        "pct": 4.46
+      },
+      {
+        "rank": 7,
+        "name": "GPT 5.5",
+        "pct": 4.4
+      },
+      {
+        "rank": 8,
+        "name": "Claude Haiku 4.5",
+        "pct": 2.23
+      },
+      {
+        "rank": 9,
+        "name": "Gemini 3.5 Flash",
+        "pct": 1.55
+      },
+      {
+        "rank": 10,
+        "name": "GPT 5.4",
+        "pct": 1.47
+      }
+    ]
+  },
+  {
+    "date": "2026-05-31",
+    "metric": "requests",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Gemini 3 Flash",
+        "pct": 20.09
+      },
+      {
+        "rank": 2,
+        "name": "GPT 5.4 Nano",
+        "pct": 7.54
+      },
+      {
+        "rank": 3,
+        "name": "DeepSeek V4 Flash",
+        "pct": 7.05
+      },
+      {
+        "rank": 4,
+        "name": "Gemini 2.5 Flash Lite",
+        "pct": 5.66
+      },
+      {
+        "rank": 5,
+        "name": "text-embedding-3-small",
+        "pct": 5.34
+      },
+      {
+        "rank": 6,
+        "name": "Gemini 3.1 Flash Lite Preview",
+        "pct": 4.96
+      },
+      {
+        "rank": 7,
+        "name": "Claude Sonnet 4.6",
+        "pct": 2.93
+      },
+      {
+        "rank": 8,
+        "name": "Claude Haiku 4.5",
+        "pct": 1.91
+      },
+      {
+        "rank": 9,
+        "name": "Gemini 3.5 Flash",
+        "pct": 0.55
+      }
+    ]
+  },
+  {
+    "date": "2026-05-31",
+    "metric": "tokens",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Gemini 3 Flash",
+        "pct": 24.22
+      },
+      {
+        "rank": 2,
+        "name": "DeepSeek V4 Flash",
+        "pct": 14.31
+      },
+      {
+        "rank": 3,
+        "name": "DeepSeek V4 Pro",
+        "pct": 11.23
+      },
+      {
+        "rank": 4,
+        "name": "Claude Opus 4.8",
+        "pct": 7.5
+      },
+      {
+        "rank": 5,
+        "name": "Claude Sonnet 4.6",
+        "pct": 6.82
+      },
+      {
+        "rank": 6,
+        "name": "Claude Haiku 4.5",
+        "pct": 2.11
+      },
+      {
+        "rank": 7,
+        "name": "GPT 5.5",
+        "pct": 1.21
+      },
+      {
+        "rank": 8,
+        "name": "Gemini 3.5 Flash",
+        "pct": 0.82
+      },
+      {
+        "rank": 9,
+        "name": "text-embedding-3-small",
+        "pct": 0.14
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "metric": "cost",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Claude Opus 4.8",
+        "pct": 37.93
+      },
+      {
+        "rank": 2,
+        "name": "Claude Sonnet 4.6",
+        "pct": 12.82
+      },
+      {
+        "rank": 3,
+        "name": "Claude Opus 4.6",
+        "pct": 8.69
+      },
+      {
+        "rank": 4,
+        "name": "GLM 5.2",
+        "pct": 3
+      },
+      {
+        "rank": 5,
+        "name": "Claude Haiku 4.5",
+        "pct": 2.7
+      },
+      {
+        "rank": 6,
+        "name": "Claude Sonnet 5",
+        "pct": 1.46
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "metric": "requests",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "DeepSeek V4 Flash",
+        "pct": 11.84
+      },
+      {
+        "rank": 2,
+        "name": "Gemini 3.1 Flash Lite",
+        "pct": 6.7
+      },
+      {
+        "rank": 3,
+        "name": "Gemini 2.5 Flash Lite",
+        "pct": 5.95
+      },
+      {
+        "rank": 4,
+        "name": "GPT-4o mini",
+        "pct": 5.03
+      },
+      {
+        "rank": 5,
+        "name": "Claude Haiku 4.5",
+        "pct": 3.63
+      },
+      {
+        "rank": 6,
+        "name": "GLM 5.2",
+        "pct": 1.07
+      },
+      {
+        "rank": 7,
+        "name": "GPT-5 nano",
+        "pct": 0.64
+      },
+      {
+        "rank": 8,
+        "name": "Step 3.7 Flash",
+        "pct": 0.21
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "metric": "tokens",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Claude Opus 4.8",
+        "pct": 18.35
+      },
+      {
+        "rank": 2,
+        "name": "DeepSeek V4 Flash",
+        "pct": 14.47
+      },
+      {
+        "rank": 3,
+        "name": "GLM 5.2",
+        "pct": 3.59
+      },
+      {
+        "rank": 4,
+        "name": "Claude Sonnet 5",
+        "pct": 2.01
+      },
+      {
+        "rank": 5,
+        "name": "Step 3.7 Flash",
+        "pct": 0.72
+      },
+      {
+        "rank": 6,
+        "name": "GPT-5 nano",
+        "pct": 0.09
+      }
+    ]
+  },
+  {
+    "date": "2026-07-31",
+    "metric": "cost",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Claude Opus 5",
+        "pct": 21.24
+      },
+      {
+        "rank": 2,
+        "name": "Claude Opus 4.8",
+        "pct": 17.45
+      },
+      {
+        "rank": 3,
+        "name": "Claude Sonnet 4.6",
+        "pct": 6.51
+      },
+      {
+        "rank": 4,
+        "name": "Claude Opus 4.6",
+        "pct": 6.13
+      },
+      {
+        "rank": 5,
+        "name": "Claude Fable 5",
+        "pct": 5.86
+      },
+      {
+        "rank": 6,
+        "name": "GPT 5.6 Sol",
+        "pct": 5.04
+      },
+      {
+        "rank": 7,
+        "name": "Claude Sonnet 5",
+        "pct": 4.65
+      },
+      {
+        "rank": 8,
+        "name": "Kimi K3",
+        "pct": 3.84
+      },
+      {
+        "rank": 9,
+        "name": "GLM 5.2",
+        "pct": 3.7
+      },
+      {
+        "rank": 10,
+        "name": "Claude Haiku 4.5",
+        "pct": 2.44
+      }
+    ]
+  },
+  {
+    "date": "2026-07-31",
+    "metric": "requests",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "GPT-5 nano",
+        "pct": 23.9
+      },
+      {
+        "rank": 2,
+        "name": "DeepSeek V4 Flash",
+        "pct": 9.88
+      },
+      {
+        "rank": 3,
+        "name": "Gemini 3.1 Flash Lite",
+        "pct": 4.71
+      },
+      {
+        "rank": 4,
+        "name": "Claude Haiku 4.5",
+        "pct": 3.49
+      },
+      {
+        "rank": 5,
+        "name": "Gemini 2.5 Flash Lite",
+        "pct": 2.99
+      },
+      {
+        "rank": 6,
+        "name": "GPT-4o mini",
+        "pct": 2.7
+      },
+      {
+        "rank": 7,
+        "name": "GPT 5.6 Luna",
+        "pct": 1.98
+      },
+      {
+        "rank": 8,
+        "name": "GLM 5.2",
+        "pct": 1.6
+      },
+      {
+        "rank": 9,
+        "name": "Step 3.7 Flash",
+        "pct": 1.07
+      },
+      {
+        "rank": 10,
+        "name": "DeepSeek V4 Flash 0731",
+        "pct": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-07-31",
+    "metric": "tokens",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "DeepSeek V4 Flash",
+        "pct": 18.41
+      },
+      {
+        "rank": 2,
+        "name": "Claude Opus 5",
+        "pct": 9.87
+      },
+      {
+        "rank": 3,
+        "name": "GPT-5 nano",
+        "pct": 9.44
+      },
+      {
+        "rank": 4,
+        "name": "Claude Opus 4.8",
+        "pct": 7.08
+      },
+      {
+        "rank": 5,
+        "name": "GLM 5.2",
+        "pct": 5.55
+      },
+      {
+        "rank": 6,
+        "name": "Step 3.7 Flash",
+        "pct": 4.19
+      },
+      {
+        "rank": 7,
+        "name": "Claude Sonnet 5",
+        "pct": 3.07
+      },
+      {
+        "rank": 8,
+        "name": "GPT 5.6 Luna",
+        "pct": 2.49
+      },
+      {
+        "rank": 9,
+        "name": "DeepSeek V4 Flash 0731",
+        "pct": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "metric": "cost",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "Claude Opus 5",
+        "pct": 20.34
+      },
+      {
+        "rank": 2,
+        "name": "Claude Opus 4.8",
+        "pct": 16.54
+      },
+      {
+        "rank": 3,
+        "name": "GLM 5.2",
+        "pct": 7.56
+      },
+      {
+        "rank": 4,
+        "name": "GPT 5.6 Sol",
+        "pct": 6.82
+      },
+      {
+        "rank": 5,
+        "name": "Claude Sonnet 5",
+        "pct": 5.92
+      },
+      {
+        "rank": 6,
+        "name": "Claude Opus 4.6",
+        "pct": 5.41
+      },
+      {
+        "rank": 7,
+        "name": "Claude Sonnet 4.6",
+        "pct": 4.3
+      },
+      {
+        "rank": 8,
+        "name": "Claude Fable 5",
+        "pct": 4.24
+      },
+      {
+        "rank": 9,
+        "name": "Kimi K3",
+        "pct": 2.14
+      },
+      {
+        "rank": 10,
+        "name": "Claude Haiku 4.5",
+        "pct": 2.05
+      }
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "metric": "requests",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "GPT-5 nano",
+        "pct": 11.74
+      },
+      {
+        "rank": 2,
+        "name": "DeepSeek V4 Flash",
+        "pct": 6.57
+      },
+      {
+        "rank": 3,
+        "name": "GPT 5.6 Luna",
+        "pct": 6.34
+      },
+      {
+        "rank": 4,
+        "name": "DeepSeek V4 Flash 0731",
+        "pct": 6.21
+      },
+      {
+        "rank": 5,
+        "name": "GLM 5.2",
+        "pct": 4.73
+      },
+      {
+        "rank": 6,
+        "name": "Gemini 3.1 Flash Lite",
+        "pct": 4.7
+      },
+      {
+        "rank": 7,
+        "name": "Step 3.7 Flash",
+        "pct": 4.33
+      },
+      {
+        "rank": 8,
+        "name": "Gemini 2.5 Flash Lite",
+        "pct": 3.26
+      },
+      {
+        "rank": 9,
+        "name": "Claude Haiku 4.5",
+        "pct": 3.2
+      },
+      {
+        "rank": 10,
+        "name": "GPT-4o mini",
+        "pct": 3.2
+      }
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "metric": "tokens",
+    "type": "monthly",
+    "models": [
+      {
+        "rank": 1,
+        "name": "DeepSeek V4 Flash",
+        "pct": 20.02
+      },
+      {
+        "rank": 2,
+        "name": "Step 3.7 Flash",
+        "pct": 12.98
+      },
+      {
+        "rank": 3,
+        "name": "GLM 5.2",
+        "pct": 7.32
+      },
+      {
+        "rank": 4,
+        "name": "Claude Opus 5",
+        "pct": 5.67
+      },
+      {
+        "rank": 5,
+        "name": "DeepSeek V4 Flash 0731",
+        "pct": 5.58
+      },
+      {
+        "rank": 6,
+        "name": "GPT 5.6 Luna",
+        "pct": 5.53
+      },
+      {
+        "rank": 7,
+        "name": "Claude Opus 4.8",
+        "pct": 5.24
+      },
+      {
+        "rank": 8,
+        "name": "Claude Sonnet 5",
+        "pct": 4.46
+      },
+      {
+        "rank": 9,
+        "name": "GPT-5 nano",
+        "pct": 2.99
+      },
+      {
+        "rank": 10,
+        "name": "Muse Spark 1.2 Contributor",
+        "pct": 2.49
+      }
+    ]
+  }
+]
