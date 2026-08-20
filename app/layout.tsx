@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Vercel AI Gateway Leaderboard",
+  title: "Vercel Token Data",
   description:
     "Historical market-share trends for the top models on Vercel AI Gateway, by token volume, spend, and requests.",
 };

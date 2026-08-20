@@ -1,4 +1,4 @@
-# Vercel AI Gateway Leaderboard
+# Vercel Token Data
 
 Historical market-share trends for the top models on [Vercel AI Gateway](https://vercel.com/ai-gateway/leaderboards/models) — token volume, spend, and requests — going back to July 2025 where the data exists.
 

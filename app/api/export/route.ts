@@ -27,7 +27,7 @@ function addSheet(workbook: ExcelJS.Workbook, metric: Metric) {
 export async function GET(request: NextRequest) {
   const requested = request.nextUrl.searchParams.get("metric") as Metric | null;
   const workbook = new ExcelJS.Workbook();
-  workbook.creator = "vercel-ai-gateway-leaderboard";
+  workbook.creator = "vercel-token-data";
   workbook.created = new Date();
 
   const metrics = requested && METRICS.includes(requested) ? [requested] : METRICS;
@@ -36,8 +36,8 @@ export async function GET(request: NextRequest) {
   const buffer = await workbook.xlsx.writeBuffer();
   const filename =
     metrics.length === 1
-      ? `vercel-ai-gateway-${metrics[0]}.xlsx`
-      : "vercel-ai-gateway-leaderboard.xlsx";
+      ? `vercel-token-data-${metrics[0]}.xlsx`
+      : "vercel-token-data.xlsx";
 
   return new Response(buffer, {
     headers: {

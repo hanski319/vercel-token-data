@@ -19,7 +19,7 @@ export default function Home() {
           Unofficial · Community Dashboard
         </p>
         <h1 className="text-2xl font-semibold text-foreground sm:text-3xl">
-          Vercel AI Gateway Leaderboard — Historical Trends
+          Vercel Token Data — Historical Trends
         </h1>
         <p className="max-w-3xl text-sm text-muted">
           Market share of the top models routed through{" "}
@@ -33,7 +33,7 @@ export default function Home() {
           </a>
           , tracked over time by token volume, spend, and request count. Recent data comes from
           the live leaderboard; earlier history is reconstructed from Wayback Machine captures.
-          See <a href="https://github.com/hanski319/vercel-ai-gateway-leaderboard/blob/master/PLAN.md" target="_blank" rel="noreferrer" className="underline decoration-border underline-offset-2 hover:text-accent">PLAN.md</a> for sourcing details and known gaps.
+          See <a href="https://github.com/hanski319/vercel-token-data/blob/master/PLAN.md" target="_blank" rel="noreferrer" className="underline decoration-border underline-offset-2 hover:text-accent">PLAN.md</a> for sourcing details and known gaps.
         </p>
       </header>
 
