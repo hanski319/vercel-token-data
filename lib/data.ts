@@ -56,31 +56,3 @@ export function monthLabel(date: string): string {
   const d = new Date(date + "T00:00:00Z");
   return d.toLocaleDateString("en-US", { month: "short", year: "numeric", timeZone: "UTC" });
 }
-
-/** Pivot a set of records (one per date) into a wide, spreadsheet-friendly
- * shape: a row per date with one column per model name (the union of top
- * models across the whole series), values are pct (0 if absent that day).
- * Used for the XLSX export. */
-export function pivotWide(records: LeaderboardRecord[]) {
-  const modelSet = new Set<string>();
-  for (const r of records) for (const m of r.models) modelSet.add(m.name);
-  // Rank models by their best (max) share across the series so the legend/stack
-  // order favors whoever was ever dominant, "Other" always last.
-  const best = new Map<string, number>();
-  for (const r of records) for (const m of r.models) {
-    best.set(m.name, Math.max(best.get(m.name) ?? 0, m.pct));
-  }
-  const models = [...modelSet].sort((a, b) => {
-    if (a === "Other") return 1;
-    if (b === "Other") return -1;
-    return (best.get(b) ?? 0) - (best.get(a) ?? 0);
-  });
-
-  const rows = records.map((r) => {
-    const row: Record<string, string | number> = { date: r.date };
-    for (const m of r.models) row[m.name] = m.pct;
-    return row;
-  });
-
-  return { models, rows };
-}
