@@ -38,7 +38,7 @@ function addSheet(workbook: ExcelJS.Workbook, metric: Metric) {
     sheet.getColumn(2 + i * 2).width = 26;
     const pct = sheet.getColumn(3 + i * 2);
     pct.width = 10;
-    pct.numFmt = "0.0";
+    pct.numFmt = '0.0"%"';
   });
   sheet.views = [{ state: "frozen", xSplit: 1, ySplit: 2 }];
 }
